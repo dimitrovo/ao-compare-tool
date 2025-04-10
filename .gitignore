@@ -1,0 +1,30 @@
+# Python cache
+__pycache__
+.py[cod]
+$py.class
+
+# VS Code settings
+.vscode
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Excel files
+.xls
+.xlsx
+.xlsm
+.xlsb
+
+# JupyterIPython
+.ipynb_checkpoints
+
+# Output
+comp_result.xlsx
+
+# Env
+.env
+.venv
+env
+venv
+ENV
