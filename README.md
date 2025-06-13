@@ -1,7 +1,6 @@
 # AO Compare Tool
 
-**AO Compare Tool** is a lightweight Python script for comparing two Excel files exported from SAP Analysis for Office (AO).  
-It automatically detects header rows, identifies unique keys, compares matching rows, and outputs differences to the console or an Excel file.
+**AO Compare Tool** is a lightweight Python script for comparing two Excel files exported from SAP Analysis for Office (AO). It automatically detects header rows, identifies unique keys, compares matching rows, and outputs differences to the console or an Excel file.
 
 ---
 
