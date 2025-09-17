@@ -57,13 +57,7 @@ python CompareReports.py exc=none
   - Sheet `OnlyInBase` — rows only in base
   - Sheet `OnlyInCompare` — rows only in compare
 
----
 
-## 🛡 .gitignore
-
-All `.xlsx` files are ignored to avoid accidental data uploads.
-
----
 
 ## 📄 License
 
